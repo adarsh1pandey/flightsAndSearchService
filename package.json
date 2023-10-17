@@ -4,7 +4,7 @@
   "description": "Micro service for handleling FLIGHT crud",
   "main": "index.js",
   "scripts": {
-    "start": "npx nodemon src/index.js"
+    "start": "npx nodemon --delay 500ms src/index.js"
   },
   "author": "Adarsh Pandey",
   "license": "ISC",
